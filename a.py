@@ -1,3 +1,2 @@
-index_holder = ("INCREMENT","ROW")
-
-print(index_holder == ("INCREMENT","ROW"))
+for i in range(5,0,-1):
+    print(i)
